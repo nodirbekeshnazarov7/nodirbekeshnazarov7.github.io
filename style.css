@@ -1,0 +1,47 @@
+body{
+    font-family: arial;
+}
+.navbar{
+    background-color: #0202b9;
+}
+.navbar span{
+    display: inline-block;
+    color: #fff;
+    font-weight: bold;
+    margin-left: 10px;
+}
+.navbar ul{
+    list-style-type: none;
+    padding: 0;
+    display: inline-block;
+    margin-left: 30px;
+}
+.navbar ul li{
+    display: inline;
+    font-size: 13px;
+    color: white;
+    margin-left: 20px;
+}
+
+
+#twitter{
+    border: 1px solid #fff;
+    background-color: #fff;
+    padding: 5px 5px;
+    border-radius: 50%;
+    margin-left: 750px;
+}
+#linkedin{
+    border: 1px solid #fff;
+    background-color: #fff;
+    padding: 5px 5px;
+    border-radius: 50%;
+    margin-left: 10px;
+}
+#youtube{
+    border: 1px solid #fff;
+    background-color: #fff;
+    padding: 5px 5px;
+    border-radius: 50%;
+    margin-left: 10px;
+}
