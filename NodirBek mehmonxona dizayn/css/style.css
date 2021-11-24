@@ -1,0 +1,63 @@
+.navbar{
+    border-bottom: 3px solid ;
+    border-color: deepskyblue;
+}
+.aa{
+    background-color: rgba(0, 0, 0, .6);
+}
+.home-icon{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+#bg-box{
+    background-image: url("../img/gallery5.jpg");
+    background-attachment: fixed;
+    min-height: 200px;
+    position: relative;
+    background-position: center;
+}
+.dark-overlay{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-color: rgba(0,0,0, .5);
+
+
+}
+#bg-box1{
+    background-image: url("../img/gallery4.jpg");
+    background-attachment: fixed;
+    min-height: 200px;
+    position: relative;
+}
+
+
+}
+.rasmlar{
+    margin-left: 110px;
+    margin-right: 110px;
+}
+.pes{
+    margin-left: 100px;
+}
+#bg-box2{
+    background-image: url("../img/gallery1.jpg");
+    background-attachment: fixed;
+    min-height: 200px;
+    position: relative;
+}
+#bg-box3{
+    background-image: url("../img/gallery5.jpg");
+    background-attachment: fixed;
+    min-height: 200px;
+    position: relative;
+
+}
+#bg-box4{
+    background-image: url("../img/Снимок.PNG");
+    background-attachment: fixed;
+    min-height: 200px;
+    position: relative;
+}
